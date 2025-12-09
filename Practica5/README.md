@@ -137,7 +137,7 @@ Cada clase de prueba implementa cuatro fixtures obligatorios:
 🔹 **Ejecutar toda la suite**
 
 ```bash
-python suite_practica5.py
+python test_suite.py
 ```
 
 🔹 **Ejecutar un archivo específico**
